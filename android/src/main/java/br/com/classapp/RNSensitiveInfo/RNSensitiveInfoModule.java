@@ -9,7 +9,7 @@ import android.hardware.fingerprint.FingerprintManager;
 import android.os.Build;
 import android.os.CancellationSignal;
 import android.security.keystore.KeyGenParameterSpec;
-import android.security.keystore.KeyInfo;']
+import android.security.keystore.KeyInfo;
 import java.security.InvalidKeyException;
 import android.security.keystore.KeyProperties;
 import android.support.annotation.NonNull;
